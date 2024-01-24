@@ -1,0 +1,1 @@
+# fullclycle_kafka
